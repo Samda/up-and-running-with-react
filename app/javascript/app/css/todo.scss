@@ -1,0 +1,23 @@
+div {
+  margin: 5px auto;
+
+  .todo-container {
+    padding: 10px;
+    background: #DDDCCC;
+    display: inline-block;
+    form{
+      input {
+        font-size: 20px;
+      }
+    }
+
+    ul.todo-list{
+      padding: 0px;
+      li{
+        text-align: left;
+        list-style-type: none;
+      }
+    }
+  }
+
+}
