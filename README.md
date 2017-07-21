@@ -15,7 +15,7 @@ setting up with Ruby On Rails.
   * ChildrenUtilities
 
 ## Let's get start
-**assume that you got rails and yarn setup already.**
+**assume that you got rails and yarn setup already.**  
 open your terminal and clone to your local machine using [GIT](https://try.github.io/levels/1/challenges/1).  
 `git clone git@github.com:Samda/up-and-running-with-react.git && cd up-and-running-with-react`  
 then run  
