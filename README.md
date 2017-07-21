@@ -15,5 +15,5 @@ after run this command to start the development sever.
 
 then visiting [localhost:3000](http://localhost:3000) to see the running result.
 
-## source
+## react source code
 for the react source code in place in `app/javascript` to understand [please read this](https://github.com/rails/webpacker).
