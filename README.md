@@ -1,7 +1,18 @@
 # Up and running with react.
 
 codes example for [egghead.io free lesson](https://egghead.io/lessons/react-react-fundamentals-development-environment-setup).
-setting up with Ruby On Rails.  
+setting up with Ruby On Rails.
+## All examples are
+  * PropExample
+  * StateExample
+  * NestedComponent
+  * EventsExample
+  * RefsExample
+  * MountComponentExampleWrapper
+  * CompoentArrayData
+  * HigherOrderComponent
+  * JsxCompiler
+  * ChildrenUtilities
 
 ## Let's get start
 **assume that you got rails and yarn setup already.**
