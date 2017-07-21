@@ -1,4 +1,4 @@
-# Update and running with react.
+# Up and running with react.
 
 codes example for [egghead.io free lesson](https://egghead.io/lessons/react-react-fundamentals-development-environment-setup).
 setting up with Ruby On Rails.  
