@@ -14,3 +14,6 @@ after run this command to start the development sever.
 `bundle exec foreman start`
 
 then visiting [localhost:3000](http://localhost:3000) to see the running result.
+
+## source
+for the react source code in place in `app/javascript` to understand [please read this](https://github.com/rails/webpacker).
